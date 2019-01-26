@@ -13,6 +13,7 @@
 ## Performance Cube: No preview yet
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Reset Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
+## State Inventory: No preview yet
 ## Stop Action Trigger: No preview yet
 ## World Fixed IK: No preview yet
 
