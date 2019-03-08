@@ -14,7 +14,7 @@
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Reset Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
 ## Sound On Collision: No preview yet
-## State Inventory: No preview yet
+## State Inventory: [https://youtu.be/II8oDxWIODQ](https://youtu.be/II8oDxWIODQ)
 ## Stop Action Trigger: No preview yet
 ## World Fixed IK: No preview yet
 
