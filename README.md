@@ -8,7 +8,7 @@
 ## Performance Cube: No preview yet
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Sound On Collision: No preview yet
-## State Inventory: [https://youtu.be/II8oDxWIODQ](https://youtu.be/II8oDxWIODQ)
+## State Inventory: [https://youtu.be/X4DtylR_IxM](https://youtu.be/X4DtylR_IxM)
 ## Stop Action Trigger: No preview yet
 ## World Fixed IK: No preview yet
 ## World Fixed Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
