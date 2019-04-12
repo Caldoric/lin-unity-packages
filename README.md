@@ -10,6 +10,6 @@
 ## Sound On Collision: No preview yet
 ## State Inventory: [https://youtu.be/OtltuDNuuko](https://youtu.be/OtltuDNuuko)
 ## Stop Action Trigger: No preview yet
-## World Fixed IK: No preview yet
+## World Fixed IK: [https://youtu.be/l2pW4bsc-PE](https://youtu.be/l2pW4bsc-PE)
 ## World Fixed Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
 
