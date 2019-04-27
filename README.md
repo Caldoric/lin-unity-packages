@@ -5,8 +5,8 @@
 ## Button Inventory: [https://youtu.be/OtltuDNuuko](https://youtu.be/OtltuDNuuko)
 ## Drop Bed: [https://youtu.be/WIYPGzzmFvM](https://youtu.be/WIYPGzzmFvM)
 ## Following Drone: [https://youtu.be/8SXjH_6tu48](https://youtu.be/8SXjH_6tu48)
-## Multi-Hand Trigger: No preview yet
-## On-Release Trigger: No preview yet
+## Multi-Hand Trigger: [https://youtu.be/8-Xq4ycNmJo](https://youtu.be/8-Xq4ycNmJo)
+## On-Release Trigger: [https://youtu.be/EjWEGT4HaTE](https://youtu.be/EjWEGT4HaTE)
 ## Performance Cube: No preview yet
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Sound On Collision: No preview yet
