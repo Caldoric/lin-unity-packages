@@ -7,7 +7,7 @@
 ## Following Drone: [https://youtu.be/8SXjH_6tu48](https://youtu.be/8SXjH_6tu48)
 ## Multi-Hand Trigger: [https://youtu.be/8-Xq4ycNmJo](https://youtu.be/8-Xq4ycNmJo)
 ## On-Release Trigger: [https://youtu.be/EjWEGT4HaTE](https://youtu.be/EjWEGT4HaTE)
-## Performance Cube: No preview yet
+## Performance Cube: [https://youtu.be/SsiQx4IcqGc](https://youtu.be/SsiQx4IcqGc)
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Sound On Collision: No preview yet
 ## Stop Action Trigger: No preview yet
