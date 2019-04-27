@@ -6,6 +6,7 @@
 ## Drop Bed: [https://youtu.be/WIYPGzzmFvM](https://youtu.be/WIYPGzzmFvM)
 ## Following Drone: [https://youtu.be/8SXjH_6tu48](https://youtu.be/8SXjH_6tu48)
 ## Multi-Hand Trigger: No preview yet
+## On-Release Trigger: No preview yet
 ## Performance Cube: No preview yet
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 ## Sound On Collision: No preview yet
