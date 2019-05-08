@@ -13,7 +13,7 @@ These are the standard VRChat hand poses, free to use from Mixamo.
 ## Multi-Hand Trigger: [https://youtu.be/8-Xq4ycNmJo](https://youtu.be/8-Xq4ycNmJo)
 Animate on a particular combination of gestures, *without* disabling child objects. Safe and reliable way to do state management with gestures.
 ## On-Release Trigger: [https://youtu.be/EjWEGT4HaTE](https://youtu.be/EjWEGT4HaTE)
-Animate on gesture release. without disabling child objects.  
+Animate on gesture release, without disabling child objects.  
 ## Performance Cube: [https://youtu.be/SsiQx4IcqGc](https://youtu.be/SsiQx4IcqGc)
 This is a big invisible cube. This will improve the sync rate of animator systems. Good for avatars which do performances and need consistency even if a person isn't looking at you.
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
