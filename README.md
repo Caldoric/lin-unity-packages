@@ -16,10 +16,10 @@ Animate on a particular combination of gestures, *without* disabling child objec
 Animate on gesture release. without disabling child objects.  
 ## Performance Cube: [https://youtu.be/SsiQx4IcqGc](https://youtu.be/SsiQx4IcqGc)
 This is a big invisible cube. This will improve the sync rate of animator systems. Good for avatars which do performances and need consistency even if a person isn't looking at you.
-## Player Local Kit: No preview yet
-Prefabs for player local animation. Multiple field prefabs which play local animations on field entry and exit. A gesture based player local touch prefab is also included. 
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 An object which is controlled by physics. You can easily replace the effects. Collides with the world using physics, but detonation is manual. Good example of an interface built with multi-hand trigger.
+## Player Local Kit: No preview yet
+Prefabs for player local animation. Multiple field prefabs which play local animations on field entry and exit. A gesture based player local touch prefab is also included. 
 ## Single Fire Particle: No preview yet
 This is a particle system prefab that will fire once per override, without garbage keyframes, without disabling game objects, without a broken emitter pair, without an animator, and without any visual interruption when you release the override. If you need a delay you can add it to the child particle, or other particles you decide to sub-emit.
 ## Sound On Collision: No preview yet
