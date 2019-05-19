@@ -11,7 +11,7 @@ A mesh world particle bed which is 100% stable in world space with no position o
 ## Following Drone: [https://youtu.be/8SXjH_6tu48](https://youtu.be/8SXjH_6tu48)
 This prefab uses a series of joints to make an object appear less like it is connected to your avatar.
 ## Linear Projectile: [https://youtu.be/qZDQQjm6Gfc](https://youtu.be/qZDQQjm6Gfc)
-A linear projectile with positional effects on collision. Uses stop action and looping root motion. (This requires Final IK 1.6 or 1.7)
+A linear projectile with positional effects on collision. Uses stop action and looping root motion. Can be used to shoot an animated mesh. (This requires Final IK 1.6 or 1.7)
 ## Mixamo Gestures: No preview yet
 These are the standard VRChat hand poses, free to use from Mixamo.
 ## Multi-Hand Trigger: [https://youtu.be/8-Xq4ycNmJo](https://youtu.be/8-Xq4ycNmJo)
