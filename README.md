@@ -24,14 +24,14 @@ Animate with the swing of your arm. Designed for slashing effects.
 This is a big invisible cube. This will improve the sync rate of animator systems. Good for avatars which do performances and need consistency even if a person isn't looking at you.
 ## Physics Projectile: [https://youtu.be/opLUJeM8qqM](https://youtu.be/opLUJeM8qqM)
 An object which is controlled by physics. You can easily replace the effects. Collides with the world using physics, but detonation is manual. Good example of an interface built with multi-hand trigger.
-## Player Local Kit: No preview yet
-Prefabs for player local animation. Multiple field prefabs which play local animations on field entry and exit. A gesture based player local touch prefab is also included. 
+## Player Local Touch: No preview yet
+Touch a player and start an animation that is local to them.
 ## Single Fire Particle: No preview yet
 This is a particle system prefab that will fire once per override, without garbage keyframes, without disabling game objects, without a broken emitter pair, without an animator, and without any visual interruption when you release the override. If you need a delay you can add it to the child particle, or other particles you decide to sub-emit.
 ## Sound On Collision: No preview yet
 Play audio on the death of a particle. By default, the particle is set up to die on collision, and is managed by an override.
 ## Stop Action Kit: No preview yet
-Perform contact-based animations. Animation on particle death.
+Perform collision-based animations. Animation on particle death.
 ## Suspend Animator: No preview yet
 Blueprint animator and animations for creating persistent animated states. Comes with emote example.
 ## World Fixed IK: [https://youtu.be/1oL1ZNoKBxo](https://youtu.be/1oL1ZNoKBxo)
