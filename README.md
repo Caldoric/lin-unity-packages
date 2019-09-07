@@ -8,8 +8,6 @@ When you put your hand in the box when using an override, depending on what gest
 A stop action, touch-based inventory system. Can be used to add an extreme amount of animations and objects to your avatar.
 ## Drop Bed: [https://youtu.be/WIYPGzzmFvM](https://youtu.be/WIYPGzzmFvM)
 A mesh world particle bed which is 100% stable in world space with no position or rotation jitter. Oriented properly in local space using inherit velocity subemission and align to velocity rendering.
-## Following Drone: [https://youtu.be/8SXjH_6tu48](https://youtu.be/8SXjH_6tu48)
-This prefab uses a series of joints to make an object appear less like it is connected to your avatar.
 ## Linear Projectile: [https://youtu.be/qZDQQjm6Gfc](https://youtu.be/qZDQQjm6Gfc)
 A linear projectile with positional effects on collision. Uses stop action and looping root motion. Can be used to shoot an animated mesh. (This requires Final IK 1.6 or 1.7)
 ## Mixamo Gestures: No preview yet
