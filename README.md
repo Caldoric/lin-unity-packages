@@ -16,7 +16,7 @@ These are the standard VRChat hand poses, free to use from Mixamo.
 Animate on a particular combination of gestures, *without* disabling child objects. Safe and reliable way to do state management with gestures.
 ## On-Release Trigger: [https://youtu.be/EjWEGT4HaTE](https://youtu.be/EjWEGT4HaTE)
 Animate on gesture release, without disabling child objects.
-## On-Slash Kit: No preview yet
+## On-Slash Kit: [https://youtu.be/llLQJXAJ8YI](https://youtu.be/llLQJXAJ8YI)
 Animate with the swing of your arm. Designed for slashing effects.
 ## Performance Cube: [https://youtu.be/SsiQx4IcqGc](https://youtu.be/SsiQx4IcqGc)
 This is a big invisible cube. This will improve the sync rate of animator systems. Good for avatars which do performances and need consistency even if a person isn't looking at you.
