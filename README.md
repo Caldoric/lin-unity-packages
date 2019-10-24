@@ -8,8 +8,10 @@ When you put your hand in the box when using an override, depending on what gest
 A stop action, touch-based inventory system. Can be used to add an extreme amount of animations and objects to your avatar.
 ## Drop Bed: [https://youtu.be/WIYPGzzmFvM](https://youtu.be/WIYPGzzmFvM)
 A mesh world particle bed which is 100% stable in world space with no position or rotation jitter. Oriented properly in local space using inherit velocity subemission and align to velocity rendering.
+## Emote Switch: No preview yet
+A prefab which will persistently enable/disable a child GameObject, started via emote override.
 ## Linear Projectile: [https://youtu.be/qZDQQjm6Gfc](https://youtu.be/qZDQQjm6Gfc)
-A linear projectile with positional effects on collision. Uses stop action and looping root motion. Can be used to shoot an animated mesh. (This requires Final IK 1.6 or 1.7)
+A linear projectile with positional effects on collision. Uses stop action and looping root motion. Can be used to shoot an animated mesh. (This requires Final IK 1.71)
 ## Mixamo Gestures: No preview yet
 These are the standard VRChat hand poses, free to use from Mixamo.
 ## Multi-Hand Trigger: [https://youtu.be/8-Xq4ycNmJo](https://youtu.be/8-Xq4ycNmJo)
@@ -31,9 +33,9 @@ Play audio on the death of a particle. By default, the particle is set up to die
 ## Stop Action Kit: No preview yet
 Perform collision-based animations. Animation on particle death.
 ## Suspend Animator: No preview yet
-Blueprint animator and animations for creating persistent animated states. Comes with emote example.
+Blueprint animator for starting a persistent animated state.
 ## World Fixed IK: [https://youtu.be/1oL1ZNoKBxo](https://youtu.be/1oL1ZNoKBxo)
-This is a world fixed object, held in place by a limb ik script connected to nothing. More stable than physics. *Can be combined with physics.* (This requires Final IK 1.6 or 1.7)
+This is a world fixed object, held in place by a limb ik script connected to nothing. More stable than physics. *Can be combined with physics.* (This requires Final IK 1.71)
 ## World Fixed Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
 World fixed joint prefabs with integrated reset and 2017.4 bugfix. Emote and gesture prefabs.
 
