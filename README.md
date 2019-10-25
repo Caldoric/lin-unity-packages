@@ -30,7 +30,7 @@ Start particle systems or stop action animations that are player local.
 This is a particle system prefab that will fire once per override, without garbage keyframes, without disabling game objects, without a broken emitter pair, without an animator, and without any visual interruption when you release the override. If you need a delay you can add it to the child particle, or other particles you decide to sub-emit.
 ## Sound On Collision: No preview yet
 Play audio on the death of a particle. By default, the particle is set up to die on collision, and is managed by an override.
-## Stop Action Kit: No preview yet
+## Stop Action Kit: [https://youtu.be/eaWiAK0Nu4E](https://youtu.be/eaWiAK0Nu4E)
 Perform collision-based animations. Animation on particle death.
 ## Suspend Animator: No preview yet
 Blueprint animator for starting a persistent animated state.
