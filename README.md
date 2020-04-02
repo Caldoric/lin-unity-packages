@@ -34,8 +34,5 @@ Play audio on the death of a particle. By default, the particle is set up to die
 Perform collision-based animations. Animation on particle death.
 ## Suspend Animator: No preview yet
 Blueprint animator for starting a persistent animated state.
-## World Fixed IK: [https://youtu.be/1oL1ZNoKBxo](https://youtu.be/1oL1ZNoKBxo)
-This is a world fixed object, held in place by a limb ik script connected to nothing. More stable than physics. *Can be combined with physics.* (This requires Final IK 1.71)
-## World Fixed Joint: [https://youtu.be/k8CZ-pUoYv8](https://youtu.be/k8CZ-pUoYv8)
-World fixed joint prefabs with integrated reset and 2017.4 bugfix. Emote and gesture prefabs.
-
+## World Fixed Object: [https://youtu.be/T1U9E_TdcYQ](https://youtu.be/T1U9E_TdcYQ)
+This is a world fixed object, held in place by constraints.
