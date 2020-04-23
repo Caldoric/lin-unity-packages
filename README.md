@@ -1,5 +1,7 @@
 # Lindesu's unity packages
 
+# Most of these packages are legacy status and no longer supported. This repo will be cleared and filled with new packages soon.
+
 ### Delete entire lindesu asset folder before updating.
 
 ## Box Inventory: [https://youtu.be/6goS6GWG9Gs](https://youtu.be/6goS6GWG9Gs)
