@@ -1,5 +1,3 @@
 # Lindesu's unity packages
 
-# Most of these packages are legacy status and no longer supported. This repo will be cleared and filled with new packages soon.
-
-
+# This repository will be moving to a new location soon. I have removed packages which I no longer offer any support for.
