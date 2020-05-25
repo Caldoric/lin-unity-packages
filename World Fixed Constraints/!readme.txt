@@ -1,0 +1,7 @@
+The prefab is world fixed object, held in place by constraints.
+
+The "Container" object will reset it's position every time the "worldSpace" object is enabled.
+
+The presets have the settings used to do world fixed position and rotation.
+
+Setup video: https://youtu.be/T1U9E_TdcYQ
