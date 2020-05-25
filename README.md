@@ -4,6 +4,6 @@
 
 # Download
 
-[Stop Action Kit](https://github.com/oofdesu/lin-unity-packages/releases/download/Distributions/stopActionKit.unitypackage) A method for animating on particle death.
+[Stop Action Kit](https://github.com/oofdesu/lin-unity-packages/releases/download/unity-packages/stopActionKit.unitypackage) A method for animating on particle death.
 
-[World Fixed Constraints](https://github.com/oofdesu/lin-unity-packages/releases/download/Distributions/worldFixedConstraints.unitypackage) A method for fixing an object to the world.
+[World Fixed Constraints](https://github.com/oofdesu/lin-unity-packages/releases/download/unity-packages/worldFixedConstraints.unitypackage) A method for fixing an object to the world.
