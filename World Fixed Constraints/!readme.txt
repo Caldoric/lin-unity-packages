@@ -1,4 +1,4 @@
-The prefab is world fixed object, held in place by constraints.
+The prefab is a world fixed object, held in place by constraints.
 
 The "Container" object will reset it's location every time the "worldSpace" object is enabled.
 
